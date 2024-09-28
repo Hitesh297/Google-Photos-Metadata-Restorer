@@ -20,7 +20,7 @@ A Python script to restore metadata (EXIF, GPS, Date Taken) for Google Photos im
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/google-photos-metadata-restorer.git
+   git clone https://github.com/Hitesh297/google-photos-metadata-restorer.git
    cd google-photos-metadata-restorer
    ```
 
